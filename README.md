@@ -1,2 +1,3 @@
 # hello_world
-test
+testing git.
+this is HK.
